@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/map" android:title="Show Map"/>
+    <item android:title="Preferences" android:id="@+id/prefs"/>
+    <item android:title="Show data" android:id="@+id/data" />
+
+</menu>
